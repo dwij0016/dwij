@@ -33,5 +33,3 @@ print(k)
 with open('copy_poems.txt' , 'w') as y:
     g = y.write(k)
 print(y)
-
-
